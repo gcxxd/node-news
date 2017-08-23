@@ -4,7 +4,7 @@
 >![image text](https://github.com/gcxxd/node-news/raw/master/img/p1.jpg)
 >![image text](https://github.com/gcxxd/node-news/raw/master/img/p2.jpg)
 >![image text](https://github.com/gcxxd/node-news/raw/master/img/p3.jpg)
-## 安装与运行
+### 安装与运行
 
 ``` bash
 # 安装依赖
