@@ -11,7 +11,7 @@ const multer=require('multer');
 const objMulter=multer({dest: './static/upload'});
 
 var server=express();
-server.listen(8000);
+server.listen(8080);
 
 //请求数据
 server.use(bodyParser.urlencoded());
