@@ -1,10 +1,11 @@
 # node-news
 
-##基于Node.js的新闻网站
+## 基于Node.js的新闻网站
+前台新闻展示及用户评论，后台登录管理者模式对新闻及用户评价在数据库中进行增删改查
 >![image text](https://github.com/gcxxd/node-news/raw/master/img/p1.jpg)
 >![image text](https://github.com/gcxxd/node-news/raw/master/img/p2.jpg)
 >![image text](https://github.com/gcxxd/node-news/raw/master/img/p3.jpg)
-### 安装与运行
+## 安装与运行
 
 ``` bash
 # 安装依赖
